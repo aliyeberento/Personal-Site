@@ -594,8 +594,7 @@ pre code {
 
 .row {
   display: flex;
-  justify-content: flex-end;
-  /* flex-wrap: wrap; */
+  flex-wrap: wrap;
   margin-right: -15px;
   margin-left: -15px;
 }
@@ -9749,7 +9748,6 @@ a.text-dark:hover, a.text-dark:focus {
 
 .skillsBro {
 display: flex;
-justify-content: flex-end;
 }
 
 .aboutSection {
